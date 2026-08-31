@@ -1,0 +1,14 @@
+transformers>=4.44.2
+trl>=0.9.6
+peft>=0.12.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.3
+datasets>=2.21.0
+torch>=2.9.0
+gradio>=4.44.0
+openai>=1.43.0
+huggingface_hub>=0.24.6
+fastapi>=0.115.0
+uvicorn>=0.30.0
+streamlit>=1.38.0
+requests>=2.32.0
